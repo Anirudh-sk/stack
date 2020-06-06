@@ -3,8 +3,6 @@ import random
 from flask import *
 import firebase_admin
 from firebase_admin import credentials,firestore
-import time
-
 
 
 
